@@ -38,12 +38,13 @@ Here are some ideas to get you started:
 </p>
 <br><br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hebbarshriya&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hebbarshriya)](https://git.io/streak-stats)
 
 <br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hebbarshriya&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hebbarshriya" />
 </a>
+<br><br>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hebbarshriya&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hebbarshriya&layout=compact&langs_count=8&card_width=320" />
 </a>
