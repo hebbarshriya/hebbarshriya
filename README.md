@@ -23,14 +23,23 @@ Here are some ideas to get you started:
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="C" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/devicons/devicon/tree/master/icons/mysql" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/opencl/opencl-original.svg" alt="OpenCL" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hebbarshriya&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hebbarshriya" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hebbarshriya&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hebbarshriya&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hebbarshriya&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
