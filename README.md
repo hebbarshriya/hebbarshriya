@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="60" style="vertical-align:top; margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" height="60" style="vertical-align:top; margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="60" style="vertical-align:top; margin:4px">
- <img src="https://github.com/devicons/devicon/tree/master/icons/mysql" alt="MySQL" height="60" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="60" style="vertical-align:top; margin:4px">
  <img src="https://github.com/devicons/devicon/blob/master/icons/opencl/opencl-original.svg" alt="OpenCL" height="60" style="vertical-align:top; margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="60" style="vertical-align:top; margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="60" style="vertical-align:top; margin:4px">
