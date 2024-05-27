@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br><br>
+
 ## ✉️ Find me on:
 <p align="left">
  <a href="www.linkedin.com/in/shriya-hebbar-676870238" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:sshriyahebbar@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
-
 <br><br>
 
 ## 🧰 Languages and Tools:
@@ -39,12 +39,13 @@ Here are some ideas to get you started:
 <br><br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hebbarshriya)](https://git.io/streak-stats)
-
 <br><br>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hebbarshriya" />
 </a>
 <br><br>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hebbarshriya&layout=compact&langs_count=8&card_width=320" />
 </a>
