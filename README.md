@@ -37,7 +37,9 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
 </p>
 <br><br>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hebbarshriya&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hebbarshriya&theme=dark" />
