@@ -25,16 +25,16 @@ Here are some ideas to get you started:
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="C" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
- <img src="https://github.com/devicons/devicon/tree/master/icons/mysql" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
- <img src="https://github.com/devicons/devicon/blob/master/icons/opencl/opencl-original.svg" alt="OpenCL" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="C" height="60" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="60" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" height="60" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="60" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/devicons/devicon/tree/master/icons/mysql" alt="MySQL" height="60" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/opencl/opencl-original.svg" alt="OpenCL" height="60" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="60" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="60" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" height="60" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="60" style="vertical-align:top; margin:4px">
 </p>
 <br><br>
 
